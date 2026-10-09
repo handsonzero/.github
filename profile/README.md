@@ -11,4 +11,4 @@ Independent offensive security practice from the Netherlands.
 
 The person who found the bug explains it to you.
 
-[handsonzero.com](https://www.handsonzero.com) · [Contact](https://www.handsonzero.com/contact/) · [Disclosure](https://www.handsonzero.com/disclosure/)
+[handsonzero.com](https://www.handsonzero.com) · [Contact](https://www.handsonzero.com/contact/)
